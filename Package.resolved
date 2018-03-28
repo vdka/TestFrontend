@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ARM64Encoder",
+        "repositoryURL": "/Users/vdka/Source/vdka/ARM64Encoder",
+        "state": {
+          "branch": "master",
+          "revision": "3706532172778e60ed0fead95b8e86524f7225d1",
+          "version": null
+        }
+      },
+      {
+        "package": "CUnicorn",
+        "repositoryURL": "/Users/vdka/Source/vdka/CUnicorn",
+        "state": {
+          "branch": "master",
+          "revision": "790db6f421b7b09695f48ea8aa312b692f9296d4",
+          "version": null
+        }
+      },
+      {
+        "package": "Unicorn",
+        "repositoryURL": "/Users/vdka/Source/vdka/Unicorn-Swift",
+        "state": {
+          "branch": "master",
+          "revision": "333af99ec0ef6445aa37448506fbe5e8b96b326c",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
